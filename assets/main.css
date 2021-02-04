@@ -11,7 +11,7 @@ a {
 	color: black;
 }
 
-.col-6 {
+.row {
 	padding: 30px;
 	min-height: 800px; 
 	background-color: rgba(33,37,41,0.5);
@@ -34,4 +34,7 @@ a {
 }
 form {
 	opacity: 0.8;
+}
+.text {
+	background-color: rgba(0,0,0,0.5);
 }
