@@ -1,40 +1,48 @@
 body {
-	background: url(img/11.gif);
-	color:white;
-	background-repeat: no-repeat, repeat;
-	background-size: cover;
-}
-hr {
-	background-color: white;
-}
-a {
-	color: black;
+    background: url(img/11.gif);
+    color: white;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
 }
 
-.row {
-	padding: 30px;
-	min-height: 800px; 
-	background-color: rgba(33,37,41,0.5);
+hr {
+    background-color: white;
+}
+
+a {
+    color: black;
+}
+
+.text-about {
+    padding: 5%;
+    min-height: 50%;
+    background-color: rgba(33, 37, 41, 0.5);
 }
 
 .button {
-	width: 70%;
-	height: 20%;
-	margin-top: 25%;
-	margin-left: 20%; 
+    width: 70%;
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 20%;
 }
+
 .btn {
-	background-color: rgba(255,255,255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
 }
+
 .workspace {
-	margin-top: 30%;
+    margin-top: 30%;
 }
+
 .contact {
-	opacity: 0.8;
+    opacity: 0.8;
 }
+
 form {
-	opacity: 0.8;
+    opacity: 0.8;
 }
+
 .text {
-	background-color: rgba(0,0,0,0.5);
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.5);
 }
